@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=1565C0) 
 
 ### Работа с кодом
-![VSCODE](https://img.shields.io/badge/-VSCODE-000?style=for-the-badge&logo=VSCODE&logoColor=0000FF) 
+![VSCODE](https://img.shields.io/badge/-VSCODE-000?style=for-the-badge&logo=VSCODE&logoColor=0000FF) ![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=GIT&logoColor=F1502F) ![BASH](https://img.shields.io/badge/-BASH-000?style=for-the-badge&logo=BASH&logoColor=540D6E) 
 
 ### Мои соцсети
 [![VK](https://img.shields.io/badge/-VK-000?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/id_luft_ilia) [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000?style=for-the-badge&logo=TELEGRAM&logoColor=0088CC)](https://t.me/ilialuft)
