@@ -1,7 +1,7 @@
 ![Header](https://github.com/IliaLuft/IliaLuft/blob/main/assets/ILIALUFTPNG.jpg)
 
 ### Тестовая документация
-![youtrack]<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JetBrains_YouTrack_Icon.svg/1200px-JetBrains_YouTrack_Icon.svg.png" alt="YouTrack" width="20"/> **YouTrack**(https://img.shields.io/badge/-youtrack-000?style=for-the-badge&logo=YouTrack&logoColor=FF80AB) ![testit](https://img.shields.io/badge/-testit-000?style=for-the-badge&logo=testit&logoColor=3E77B6)
+![youtrack](<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JetBrains_YouTrack_Icon.svg/1200px-JetBrains_YouTrack_Icon.svg.png" alt="YouTrack" width="20"/> **YouTrack**https://img.shields.io/badge/-youtrack-000?style=for-the-badge&logo=YouTrack&logoColor=FF80AB) ![testit](https://img.shields.io/badge/-testit-000?style=for-the-badge&logo=testit&logoColor=3E77B6)
 
 ### Тестирование веб-приложений
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman&logoColor=FF7F50) ![SoapUI](https://img.shields.io/badge/-SoapUI-000?style=for-the-badge&logo=SoapUI&logoColor=6CB33F) ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000?style=for-the-badge&logo=GoogleChrome&logoColor=34A853) 
