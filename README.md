@@ -1,9 +1,19 @@
 ![Header](https://github.com/IliaLuft/IliaLuft/blob/main/assets/ILIALUFTPNG.jpg)
 
-### Languages and Tools
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman&logoColor=FF7F50) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=039BES) ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=1565C0) ![youtrack](https://img.shields.io/badge/-youtrack-000?style=for-the-badge&logo=youtrack&logoColor=FF80AB) ![testit](https://img.shields.io/badge/-testit-000?style=for-the-badge&logo=testit&logoColor=3E77B6)
+### Тестовая документация
+![youtrack](https://img.shields.io/badge/-youtrack-000?style=for-the-badge&logo=youtrack&logoColor=FF80AB) ![testit](https://img.shields.io/badge/-testit-000?style=for-the-badge&logo=testit&logoColor=3E77B6)
 
+### Тестирование веб-приложений
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman&logoColor=FF7F50) ![SoapUI](https://img.shields.io/badge/-SoapUI-000?style=for-the-badge&logo=SoapUI&logoColor=6CB33F) 
 
+### Языки 
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=039BES) 
 
-### Follow me
+### Работа с данными
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=1565C0) 
+
+### Работа с кодом
+![VSCODE](https://img.shields.io/badge/-VSCODE-000?style=for-the-badge&logo=VSCODE&logoColor=0000FF) 
+
+### Мои соцсети
 [![VK](https://img.shields.io/badge/-VK-000?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/id_luft_ilia) [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000?style=for-the-badge&logo=TELEGRAM&logoColor=0088CC)](https://t.me/ilialuft)
