@@ -1,5 +1,8 @@
 ![Header](https://github.com/IliaLuft/IliaLuft/blob/main/assets/ILIALUFTPNG.jpg)
 
+## Мое резюме
+[Cсылка на мое резюме](https://omsk.hh.ru/resume/431b2586ff0c5dc53f0039ed1f646c31564b71) 
+
 ### Тестовая документация
 ![youtrack](https://img.shields.io/badge/-youtrack-000?style=for-the-badge&logo=YouTrack&logoColor=FF80AB) ![testit](https://img.shields.io/badge/-testit-000?style=for-the-badge&logo=testit&logoColor=3E77B6)
 
