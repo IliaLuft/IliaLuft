@@ -4,7 +4,7 @@
 ![youtrack](https://img.shields.io/badge/-youtrack-000?style=for-the-badge&logo=YouTrack&logoColor=FF80AB) ![testit](https://img.shields.io/badge/-testit-000?style=for-the-badge&logo=testit&logoColor=3E77B6)
 
 ### Тестирование веб-приложений
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman&logoColor=FF7F50) ![SoapUI](https://img.shields.io/badge/-SoapUI-000?style=for-the-badge&logo=SoapUI&logoColor=6CB33F) ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000?style=for-the-badge&logo=GoogleChrome&logoColor=34A853) 
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman&logoColor=FF7F50) ![SoapUI](https://img.shields.io/badge/-SoapUI-000?style=for-the-badge&logo=SoapUI&logoColor=6CB33F) ![SWAGGER](https://img.shields.io/badge/-SWAGGER-000?style=for-the-badge&logo=SWAGGER&logoColor=C2CDCE) ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000?style=for-the-badge&logo=GoogleChrome&logoColor=34A853) 
 
 ### Языки 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=039BES) 
