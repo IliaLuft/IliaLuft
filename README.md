@@ -3,7 +3,7 @@
 About me
 
 Languages and Tools
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman&logoColor=FF7F50) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=039BES) ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=1565C0) ![YouTrack](https://img.shields.io/badge/-YouTrack-000?style=for-the-badge&logo=YouTrack&logoColor=FF80AB) ![TestIT](https://img.shields.io/badge/-TestIT-000?style=for-the-badge&logo=TestIT&logoColor=3E77B6)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman&logoColor=FF7F50) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=039BES) ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=1565C0) ![youtrack](https://img.shields.io/badge/-youtrack-000?style=for-the-badge&logo=youtrackk&logoColor=FF80AB) ![test-it](https://img.shields.io/badge/-test-it-000?style=for-the-badge&logo=test-it&logoColor=3E77B6)
 
 
 
