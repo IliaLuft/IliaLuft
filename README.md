@@ -10,7 +10,6 @@
 
 [Баг-репорты](https://github.com/IliaLuft/Bug-Reports)
 
-
 ### Тестирование веб-приложений
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman&logoColor=FF7F50) ![SoapUI](https://img.shields.io/badge/-SoapUI-000?style=for-the-badge&logo=SoapUI&logoColor=6CB33F) ![SWAGGER](https://img.shields.io/badge/-SWAGGER-000?style=for-the-badge&logo=SWAGGER&logoColor=C2CDCE) ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000?style=for-the-badge&logo=GoogleChrome&logoColor=34A853) 
 
