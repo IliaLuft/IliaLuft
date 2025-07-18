@@ -8,4 +8,4 @@ Languages and Tools
 
 
 Follow me
-[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-000?style=for-the-badge&logo=VKONTAKTE&logoColor=0077FF)](https://vk.com/id_luft_ilia) [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000?style=for-the-badge&logo=TELEGRAM&logoColor=0088CC)](https://t.me/ilialuft)
+[![VK](https://img.shields.io/badge/-VK-000?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/id_luft_ilia) [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000?style=for-the-badge&logo=TELEGRAM&logoColor=0088CC)](https://t.me/ilialuft)
