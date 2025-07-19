@@ -10,7 +10,7 @@
 
 [Коллекции Postman](https://github.com/IliaLuft/PostmanCollections)
 
-[Чек-листы](https://github.com/IliaLuft/Checklists)
+[Тест-кейсы](https://github.com/IliaLuft/TestCases)
 
 [Баг-репорты](https://github.com/IliaLuft/Bug-Reports)
 
