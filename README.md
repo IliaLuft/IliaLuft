@@ -31,7 +31,7 @@
     <a href="https://t.me/ilialuft" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-    <a href="https://wa.me/79514192159)" target="_blank">
+    <a href="https://wa.me/79514192159" target="_blank">
       <img src="https://logo-teka.com/wp-content/uploads/2025/06/whatsapp-sign-logo.svg" width="40" height="40" alt="whatsapp" />
     </a>
     <a href="mailto:ilia.luft.95@mail.ru" target="_blank">
