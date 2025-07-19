@@ -1,4 +1,4 @@
-![Header](https://github.com/IliaLuft/IliaLuft/blob/main/assets/ILIALUFTPNG (2).jpg)
+![Header](https://github.com/IliaLuft/IliaLuft/blob/main/assets/ILIALUFT.jpg)
 ## Мое резюме
 [Cсылка на мое резюме](https://omsk.hh.ru/resume/431b2586ff0c5dc53f0039ed1f646c31564b71) 
 
