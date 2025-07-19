@@ -15,4 +15,4 @@
 [Баг-репорты](https://github.com/IliaLuft/Bug-Reports)
 
 ### Контакты
-[![WhatsApp](https://img.shields.io/badge/-VK-000?style=for-the-badge&logo=WhatsApp&logoColor=2BB741)](https://wa.me/79514192159) [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000?style=for-the-badge&logo=TELEGRAM&logoColor=0088CC)](https://t.me/ilialuft)
+ [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000?style=for-the-badge&logo=TELEGRAM&logoColor=0088CC)](https://t.me/ilialuft) [![WhatsApp](https://img.shields.io/badge/-WHATSAPP-000?style=for-the-badge&logo=WhatsApp&logoColor=2BB741)](https://wa.me/79514192159)
