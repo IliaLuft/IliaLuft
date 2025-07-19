@@ -32,7 +32,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://wa.me/79514192159)" target="_blank">
-      <img src="https://pngset.com/images/whatsapp-round-icon-logo-image-circle-icon-whatsapp-logo-text-symbol-alphabet-label-transparent-png-2804611.png" width="40" height="40" alt="whatsapp" />
+      <img src="https://img1.pnghut.com/12/23/20/SpVuwbBGjw/mobile-phones-stock-photography-green-trademark-logo.jpg" width="40" height="40" alt="whatsapp" />
     </a>
   </div>
 
