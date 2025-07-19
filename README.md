@@ -34,6 +34,9 @@
     <a href="https://wa.me/79514192159)" target="_blank">
       <img src="https://logo-teka.com/wp-content/uploads/2025/06/whatsapp-sign-logo.svg" width="40" height="40" alt="whatsapp" />
     </a>
+    <a href="mailto:ilia.luft.95@mail.ru" target="_blank">
+      <img src="https://www.milton.edu/wp-content/uploads/2016/06/email-icon-23.png" width="40" height="40" alt="Написать мне письмо на E-mail" />
+    </a>
   </div>
 
  
