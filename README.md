@@ -18,11 +18,11 @@
 
 ### Тестовая документация
 
-[Коллекции Postman](https://github.com/IliaLuft/PostmanCollections)
+- [Коллекции Postman](https://github.com/IliaLuft/PostmanCollections)
 
-[Тест-кейсы](https://github.com/IliaLuft/TestCases)
+- [Тест-кейсы](https://github.com/IliaLuft/TestCases)
 
-[Баг-репорты](https://github.com/IliaLuft/Bug-Reports)
+- [Баг-репорты](https://github.com/IliaLuft/Bug-Reports)
 
 ### Контакты
 
