@@ -23,7 +23,7 @@
 
 - [Тест-кейсы](https://github.com/IliaLuft/TestCases)
 
-- [Баг-репорты](https://github.com/IliaLuft/Bug-Reports)
+- [Отчеты о дефектах](https://github.com/IliaLuft/Bug-Reports)
 
 ### Контакты
 
